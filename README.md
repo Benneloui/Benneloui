@@ -1,2 +1,4 @@
-Hey there! 👋 my Name is Benedikt Louis -> Benloui
--  **LinkedIn**: [linkedin.com/in/benedikt-pilgram-a2a386327]
+# Hey there! 👋 
+my name is **Benedikt Louis** --> Benloui
+
+💼 [**LinkedIn**](https://linkedin.com/in/benedikt-pilgram-a2a386327)
